@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.buistvoploti.appledesigndarktheme.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.buistvoploti.appledesigndarktheme.MyBundle
 
 class MyApplicationService {
 
